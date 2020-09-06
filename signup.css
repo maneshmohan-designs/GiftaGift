@@ -1,0 +1,17 @@
+#signup
+{
+    display: block;
+    position: absolute;
+    margin-top: 10%;
+    font-family: 'sans-serif';
+    margin-left: 30%;
+}
+input
+{
+    width: 600px;
+}
+#signup
+{
+    width: 200px;
+    display: block;
+}
